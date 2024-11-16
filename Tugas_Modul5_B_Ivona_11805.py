@@ -5,7 +5,7 @@ from PIL import Image
 import os
 
 # Define the model path
-model_path = r'D:\SURYA UAJY\Semester 5\Asdos Machine Learning\Pemegang Modul\Modul Deep Learning\Notebook\best_model_tf.h5'
+model_path = r'"C:\Users\ASUS\Downloads\Introduction to Deep Learning (Praktek)\Introduction to Deep Learning (Praktek)\best_model_tf.h5"'
 
 # Load the model
 if os.path.exists(model_path):
